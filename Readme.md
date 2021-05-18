@@ -1,18 +1,18 @@
-img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+img align='right' src="" width="230">
 
-# <p><em>Telegram İçin <a href="http://www.t.me/erdembey1 ">Erdem Bey</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+# <p><em>Telegram İçin <a href="http://www.t.me/ByMisakiMey ">Erzurumlu</a><img src="" width="50"> 
 
-<a href="https://t.me/siriuserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a> <a href="https://t.me/sirisupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/siriuserbot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a> <a href="https://t.me/MisakiDev"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </em></p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfireganqQ&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://github.com/ErdemBey1)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfireganqQ&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://github.com/ByMisakiMey)
 
-[![Erdem Bey's github stats](https://github-readme-stats.vercel.app/api?username=erdembey1&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ErdemBey1)
+[![Erdem Bey's github stats](https://github-readme-stats.vercel.app/api?username=ByMisakiMey&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ByMisakiMey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erdembey1&layout=compact&theme=cobalt)](https://github.com/ErdemBey1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByMisakiMey&layout=compact&theme=cobalt)](https://github.com/ByMisakiMey)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Aradığın Herşey Burada
+## <img src="" width="50"> Aradığın Herşey Burada
 
 
 
