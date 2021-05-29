@@ -1,4 +1,12 @@
 
+### Profilime Hoşgeldin Ben ByMisakiMey!
+<samp>
+<details align="center">
+    <summary style="font-weight: bold; font-size: 18px">
+      <b>GitHub İstatistikleri</b>
+      <i>(genişletmek için tıklayın!)</i>
+    </summary>
+
 # <p><em>Telegram İçin <a href="http://www.t.me/ByMisakiMey ">Erzurumlu</a><img src="" width="50"> 
 
 <a href="https://t.me/MisakiDev"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a> <a href="https://t.me/MisakiDev"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -7,7 +15,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfireganqQ&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://github.com/ByMisakiMey)
 
-[![Erdem Bey's github stats](https://github-readme-stats.vercel.app/api?username=ByMisakiMey&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ByMisakiMey)
+[![ByMisakiMey's github stats](https://github-readme-stats.vercel.app/api?username=ByMisakiMey&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ByMisakiMey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByMisakiMey&layout=compact&theme=cobalt)](https://github.com/ByMisakiMey)
 
