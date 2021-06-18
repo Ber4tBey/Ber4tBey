@@ -21,7 +21,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-[![fireganqQ's github stats](https://github-readme-stats.vercel.app/api?username=fireganqq&show_icons=true&theme=radical&count_private=true)](https://github.com/ByMisakiMey)
+[![ByMisakiMey's github stats](https://github-readme-stats.vercel.app/api?username=ByMisakiMey&show_icons=true&theme=radical&count_private=true)](https://github.com/ByMisakiMey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByMisakiMey&layout=compact&theme=radical)](https://github.com/ByMisakiMey)
 
@@ -30,7 +30,7 @@
 
 ## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/ByMisakiMey) Profilime Bakmışken Takip Etsen Ne Güzel Olur?? :)</img> 
 
-<!--<details>
+<details>
   <summary>📊 This week I spent my time on</summary>
   [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fireganqQ&hide_title=true&hide_border=true&langs_count=1)](https://github.com/ByMisakimey)
 </details>-->
