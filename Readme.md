@@ -23,16 +23,16 @@
   
 [![fireganqQ's github stats](https://github-readme-stats.vercel.app/api?username=fireganqq&show_icons=true&theme=radical&count_private=true)](https://github.com/ByMisakiMey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fireganqq&layout=compact&theme=radical)](https://github.com/ByMisakiMey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByMisakiMey&layout=compact&theme=radical)](https://github.com/ByMisakiMey)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="https://github.com/fireganqQ" width="350" />](https://github.com/ByMisakiMey)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="https://github.com/ByMisakimey" width="350" />](https://github.com/ByMisakiMey)
 </details>
 
-## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/fireganqQ) Profilime Bakmışken Takip Etsen Ne Güzel Olur?? :)</img> 
+## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/ByMisakiMey) Profilime Bakmışken Takip Etsen Ne Güzel Olur?? :)</img> 
 
 <!--<details>
   <summary>📊 This week I spent my time on</summary>
-  [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fireganqQ&hide_title=true&hide_border=true&langs_count=1)](https://github.com/fireganqQ)
+  [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fireganqQ&hide_title=true&hide_border=true&langs_count=1)](https://github.com/ByMisakimey)
 </details>-->
 
 
