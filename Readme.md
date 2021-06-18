@@ -1,25 +1,39 @@
 
-### Profilime Hoşgeldin Ben ByMisakiMey!
-<samp>
-<details align="center">
-    <summary style="font-weight: bold; font-size: 18px">
-      <b>GitHub İstatistikleri</b>
-      <i>(genişletmek için tıklayın!)</i>
-    </summary>
+### Merhaba 👋
 
-# <p><em>Telegram İçin <a href="http://www.t.me/ByMisakiMey ">Erzurumlu</a><img src="" width="50"> 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/fireganqQ/fireganqq)](https://github.com/fireganqQ/fireganqq) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/fireganqQ)](https://t.me/fireganqQ) 
+[![Botlarım Badge](https://img.shields.io/badge/-Telegram_Botlarım-blue?style=flat-quare&labelColor=dark_blue&logo=Telegram&logoColor=dark_blue&link=t.me/fireqanQBotlari/33)](https://t.me/fireqanQBotlari/33)
 
-<a href="https://t.me/MisakiDev"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a> <a href="https://t.me/MisakiDev"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://github.com/fireganqQ/fireganqq">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
 
-</em></p>
+<details>
+  <summary>:zap: </summary>
+  
+[<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" url="https://github.com/fireganqQ" width="495px">](https://github.com/fireganqQ)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfireganqQ&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=false)](https://github.com/ByMisakiMey)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/fireganqQ&count_bg=%231EE510&title_bg=%23555555&icon=&icon_color=%23931414&title=account+views&edge_flat=true)](https://github.com/fireganqQ)
 
-[![ByMisakiMey's github stats](https://github-readme-stats.vercel.app/api?username=ByMisakiMey&show_icons=true&theme=cobalt&count_private=true)](https://github.com/ByMisakiMey)
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByMisakiMey&layout=compact&theme=cobalt)](https://github.com/ByMisakiMey)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+[![fireganqQ's github stats](https://github-readme-stats.vercel.app/api?username=fireganqq&show_icons=true&theme=radical&count_private=true)](https://github.com/fireganqQ)
 
-## <img src="" width="50"> Aradığın Herşey Burada
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fireganqq&layout=compact&theme=radical)](https://github.com/fireganqQ)
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="https://github.com/fireganqQ" width="350" />](https://github.com/fireganqQ)
+</details>
+
+## [<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">](https://github.com/fireganqQ) Profilime Bakmışken Takip Etsen Ne Güzel Olur?? :)</img> 
+
+<!--<details>
+  <summary>📊 This week I spent my time on</summary>
+  [![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=fireganqQ&hide_title=true&hide_border=true&langs_count=1)](https://github.com/fireganqQ)
+</details>-->
 
 
 
