@@ -1,4 +1,6 @@
 
+![](https://komarev.com/ghpvc/?username=ByMisakiMey&color=565f89&style=flat)
+
 
 Soru | Cevap
 --- | --- 
