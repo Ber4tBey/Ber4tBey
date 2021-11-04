@@ -8,4 +8,4 @@ Soru | Cevap
 **Editör**  | `Visual Studio Code`
 **Yazdığım Platformlar** | `Desktop, Mobile, Web, CLI`
 **Bildiğim Diller**  | ` JS, Python, C++`
-**Öğrenmeye Çalıştığım Diller** | `c#`
+**Öğrenmeye Çalıştığım Diller** | `c#,HTML`
