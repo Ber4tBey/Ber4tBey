@@ -1,11 +1,11 @@
 
-![](https://komarev.com/ghpvc/?username=ByMisakiMey&color=565f89&style=flat)
+![](https://komarev.com/ghpvc/?username=SiriusSupport&color=565f89&style=flat)
 
 
 Soru | Cevap
 --- | --- 
-**Bilgisayarım**  | `Monster Tulpar T7 V20.3`
+**Bilgisayarım**  | `Asus G5`
 **Editör**  | `Visual Studio Code`
 **Yazdığım Platformlar** | `Desktop, Mobile, Web, CLI`
-**Bildiğim Diller**  | ` JS, Python, C++`
-**Öğrenmeye Çalıştığım Diller** | `c#,HTML`
+**Bildiğim Diller**  | ` JS, Python, JavaScript`
+**Öğrenmeye Çalıştığım Diller** | `HTML , PHP , `
