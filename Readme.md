@@ -11,13 +11,11 @@
     <br>
     <br>
     
-    <br>
+   
     💻 I love writing code and learn anythings about it
-    <br>
+  
     📚 I’m currently learning different software langauages
-    <br>
-    💬 Ask me anything about from <a href="https://t.me/Ber4tbey" title="sorun bildirme">here</a>
-    <br>
+
   </p>
 
   <hr>
