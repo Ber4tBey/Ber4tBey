@@ -7,10 +7,10 @@
   </h1>
 
   <p align="center">
-   <b> Hi, I'm Yakup, Freely Software Developer from Turkey </b>
+   <b> Hi, I'm Ber4tbey, Freely Software Developer from Turkey </b>
     <br>
     <br>
-    🔬 I'm currently studying in Kocaeli University
+    
     <br>
     💻 I love writing code and learn anythings about it
     <br>
