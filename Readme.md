@@ -17,7 +17,7 @@
     📚 I’m currently learning different software langauages
 
   </p>
-      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)"/>
+      <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
 
   <hr>
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
