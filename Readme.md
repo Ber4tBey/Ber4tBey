@@ -64,5 +64,5 @@
   </p>
 
   <hr>
-[![spotify-github-profile](https://spotifygithubprofile.vercel.app/api/viewuid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]
+
 
