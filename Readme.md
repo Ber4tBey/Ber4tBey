@@ -17,7 +17,7 @@
     📚 I’m currently learning different software langauages
 
   </p>
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
 
   <hr>
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
@@ -64,5 +64,5 @@
   </p>
 
   <hr>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
