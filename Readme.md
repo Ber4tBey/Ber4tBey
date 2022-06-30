@@ -10,7 +10,7 @@
    <b> Hi, I'm Ber4tbey, Freely Software Developer from Turkey </b>
     <br>
     <br>
-    
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)" />
    
     💻 I love writing code and learn anythings about it
   
@@ -64,5 +64,5 @@
   </p>
 
   <hr>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotifygithubprofile.vercel.app/api/viewuid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)]
 
