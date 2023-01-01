@@ -27,6 +27,7 @@
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
   <br>
   <p align="center">
+    <code><img title="React Native" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/react-native-1.svg"></code>
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/javascript.svg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/problemSolving.png"></code>
