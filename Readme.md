@@ -27,7 +27,10 @@
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
   <br>
   <p align="center">
+  
+    <code><img title="Expo Cli" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/expo-svgrepo-com.svg"></code>
     <code><img title="React Native" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/react-native-1.svg"></code>
+    <code><img title="PHP" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Php_logo.svg"></code>
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/javascript.svg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/problemSolving.png"></code>
@@ -51,16 +54,16 @@
   <br>
   <p align=center>
     <div align=center>
-      <a href="https://t.me/OwenProjects">
+      <a href="https://t.me/Ber4tbey">
         <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Ber4tbey&theme=react&border=00f3e3&stroke=00f3e3&ring=00f3e3&fire=ff8800&hide_border=true&theme=highcontrast"/>
       </a>
-      <a href="https://t.me/OwenProjects">
+      <a href="https://t.me/Ber4tbey">
         <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Ber4tbey&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=True&locale=en&icon_color=00c1b1&text_color=dddddd&title_color=00f3e3&hide_border=true"/>
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br><br><br>
     <div align=center>
-      <a href="https://t.me/OwenProjects">
+      <a href="https://t.me/Ber4tbey">
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ber4tbey&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00f3e3&text_color=dddddd&icon_color=00f3e3&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
       </a>
     </div>
