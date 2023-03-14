@@ -27,9 +27,9 @@
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools & Abilities</b> 🔥</h2>
   <br>
   <p align="center">
-   
+  <code><img title="PHP" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Php_logo.svg"></code>
+    <code><img title="Expo Cli" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/expo-svgrepo-com.svg"></code>
     <code><img title="React Native" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/react-native-1.svg"></code>
-   
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/python-original.svg"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/javascript.svg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/Ber4tbey/Ber4tbey/main/images/problemSolving.png"></code>
@@ -67,9 +67,7 @@
       </a>
     </div>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=Ber4tbey&theme=react-dark&bg_color=000000&hide_border=true&color=00f3e3&point=ff8800&line=00f3e3" width="100%"/>
+    
   </p>
 
   <hr>
-
-
