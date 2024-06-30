@@ -18,9 +18,7 @@
 
   </p>
       </details>
-<div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31witiwf4jcyy5imuzfbqvut7itq&cover_image=false" />
-  </div>
+
       
 
   <hr>
