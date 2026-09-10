@@ -1,0 +1,12 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+<style>
+.s{font-family:Inter,Arial,sans-serif}.m{font-family:'Courier New',monospace}.flow{stroke-dasharray:6 10;animation:f 6s linear infinite}@keyframes f{to{stroke-dashoffset:-96}}
+@media(prefers-color-scheme:light){.bg{fill:#F7F9FC}.box{fill:#FFF;stroke:#D8E0ED}.p{fill:#101522}.u{fill:#667085}.l{stroke:#AEB9CA}}
+@media(prefers-color-scheme:dark){.bg{fill:#080B12}.box{fill:#0E1420;stroke:#222D40}.p{fill:#F4F7FB}.u{fill:#8D98AA}.l{stroke:#3A465C}}
+</style><rect class="bg" width="1200" height="240" rx="20"/>
+<path class="l flow" d="M220 120H980" stroke-width="2"/>
+<g><rect class="box" x="45" y="72" width="210" height="96" rx="14"/><text class="s p" x="70" y="112" font-size="18" font-weight="600">DEVICE</text><text class="m u" x="70" y="139" font-size="12">CONNECTED HARDWARE</text></g>
+<g><rect class="box" x="345" y="72" width="210" height="96" rx="14"/><text class="s p" x="370" y="112" font-size="18" font-weight="600">FIRMWARE</text><text class="m u" x="370" y="139" font-size="12">EMBEDDED SYSTEMS</text></g>
+<g><rect class="box" x="645" y="72" width="210" height="96" rx="14"/><text class="s p" x="670" y="112" font-size="18" font-weight="600">PLATFORM</text><text class="m u" x="670" y="139" font-size="12">BACKEND / REAL-TIME</text></g>
+<g><rect class="box" x="945" y="72" width="210" height="96" rx="14"/><text class="s p" x="970" y="112" font-size="18" font-weight="600">INTELLIGENCE</text><text class="m u" x="970" y="139" font-size="12">AI / AUTOMATION</text></g>
+</svg>
