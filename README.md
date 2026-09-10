@@ -1,26 +1,44 @@
 <div align="center">
 
-<a href="https://github.com/Ber4tBey">
-  <img src="https://github.com/Ber4tBey/Ber4tBey/blob/main/ber4tbey.gif" alt="Berat" width="100%" />
-</a>
+<img src="./assets/hero.svg" width="100%" alt="BERAT — Software, AI & Embedded Systems">
+
+<br><br>
 
 ### SOFTWARE ENGINEER · AI · EMBEDDED SYSTEMS · FIRMWARE
 
 <sub>Building intelligent systems from silicon to software.</sub>
 
+<br><br>
+
+<a href="https://versell.ai">VERSELL.AI</a>
+  ·   <a href="https://github.com/Ber4tBey">GITHUB</a>
+  ·   <a href="https://t.me/Ber4tbey">TELEGRAM</a>
+
 </div>
 
+<br>
+
 ---
+
+<br>
 
 ## 01 / PROFILE
 
-I'm **Berat**, a software developer building products across **software, artificial intelligence, embedded systems and hardware**.
+I’m **Berat**, a software engineer focused on building products at the intersection of **software, artificial intelligence and embedded systems**.
 
-My work spans AI-powered platforms, backend infrastructure, automation, firmware and connected devices — with a focus on taking ideas from architecture to real products.
+I work across the entire engineering stack — from firmware and connected hardware to backend infrastructure, AI systems and production software.
 
-`IDEA → ARCHITECTURE → PROTOTYPE → FIRMWARE → BACKEND → PRODUCT`
+```text
+IDEA  →  ARCHITECTURE  →  PROTOTYPE  →  FIRMWARE  →  SOFTWARE  →  PRODUCT
+```
+
+Currently building **Versell** and **ANOS**.
+
+<br>
 
 ---
+
+<br>
 
 ## 02 / CURRENTLY BUILDING
 
@@ -28,83 +46,190 @@ My work spans AI-powered platforms, backend infrastructure, automation, firmware
 <tr>
 <td width="50%" valign="top">
 
-### VERSELL
+### VERSELL.AI
 
 **AI Customer Communication Platform**
 
-AI-powered customer communication and automation platform built around intelligent conversations, workflows and scalable product infrastructure.
+AI-powered customer communication infrastructure designed to automate conversations, workflows and customer interactions.
 
-**FOCUS**  
-`AI` · `SaaS` · `Automation` · `Backend Systems`
+Versell combines artificial intelligence with communication infrastructure to help businesses build smarter customer experiences.
 
-**STATUS** `ACTIVE DEVELOPMENT`
+<br>
 
-<a href="https://versell.ai">versell.ai →</a>
+**FOCUS**
+
+`Artificial Intelligence`
+`LLM Systems`
+`Automation`
+`Backend Infrastructure`
+`SaaS`
+
+<br>
+
+<a href="https://versell.ai"><b>versell.ai →</b></a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ANOS
 
 **Intelligent Smart Glasses**
 
-A smart-glasses platform combining embedded hardware, firmware, connectivity, AI and application software into a connected wearable product.
+A smart glasses platform combining **hardware, firmware, software and artificial intelligence** into a single connected product.
 
-**FOCUS**  
-`Embedded Systems` · `Firmware` · `Wearables` · `AI`
+Working across the physical and digital layers — from embedded systems and device communication to the software and intelligence powering the experience.
 
-**STATUS** `ACTIVE DEVELOPMENT`
+<br>
+
+**FOCUS**
+
+`Embedded Systems`
+`Firmware`
+`Wearable Computing`
+`Device Communication`
+`Artificial Intelligence`
+
+<br>
+
+<b>STATUS / ACTIVE DEVELOPMENT</b>
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
+
+<br>
 
 ## 03 / ENGINEERING
 
 ```text
-SOFTWARE                    ARTIFICIAL INTELLIGENCE
-├─ Backend Architecture     ├─ LLM Applications
-├─ APIs & Services          ├─ AI Agents
-├─ Real-time Systems        ├─ Automation
-└─ Product Engineering      └─ AI Product Integration
-
-EMBEDDED                    INFRASTRUCTURE
-├─ Firmware                 ├─ Linux
-├─ Microcontrollers         ├─ Docker
-├─ Device Communication     ├─ PostgreSQL
-└─ Hardware / Software      └─ Redis
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   DEVICE          FIRMWARE          PLATFORM          INTELLIGENCE   │
+│     │                 │                 │                  │         │
+│     └────────►────────┴────────►────────┴────────►─────────┘         │
+│                                                                      │
+│   Hardware         Embedded          Backend              AI         │
+│   Sensors          Systems           APIs                 LLMs       │
+│   Wearables        Connectivity      Infrastructure      Agents      │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 04 / STACK
+<br>
 
 <table>
-<tr><td><b>Languages</b></td><td>TypeScript · JavaScript · Python · C/C++ · SQL</td></tr>
-<tr><td><b>Software</b></td><td>Node.js · React · React Native · REST · WebSocket</td></tr>
-<tr><td><b>Data</b></td><td>PostgreSQL · Redis · MongoDB</td></tr>
-<tr><td><b>Embedded</b></td><td>Firmware · Microcontrollers · BLE · IoT · Device Communication</td></tr>
-<tr><td><b>AI</b></td><td>LLMs · Agents · AI Automation · Model APIs</td></tr>
-<tr><td><b>Infrastructure</b></td><td>Docker · Linux · Git · Cloud</td></tr>
+<tr>
+<td width="25%" valign="top">
+
+### SOFTWARE
+
+TypeScript
+JavaScript
+Python
+C / C++
+SQL
+
+</td>
+
+<td width="25%" valign="top">
+
+### SYSTEMS
+
+Node.js
+Linux
+Docker
+PostgreSQL
+Redis
+
+</td>
+
+<td width="25%" valign="top">
+
+### EMBEDDED
+
+Firmware
+Microcontrollers
+BLE
+IoT
+Device Communication
+
+</td>
+
+<td width="25%" valign="top">
+
+### AI
+
+LLMs
+AI Agents
+Automation
+AI APIs
+Intelligent Workflows
+
+</td>
+</tr>
 </table>
 
----
-
-## 05 / GITHUB
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ber4tBey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ber4tBey&layout=compact&hide_border=true&theme=transparent" />
-</div>
+<br>
 
 ---
 
+<br>
+
+## 04 / WHAT I CARE ABOUT
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### PRODUCT ENGINEERING
+
+Turning ideas into real products — not just prototypes.
+
+Architecture, implementation, infrastructure and deployment.
+
+</td>
+
+<td width="33%" valign="top">
+
+### INTELLIGENT SYSTEMS
+
+Building AI into products where it creates actual utility.
+
+LLMs, agents, automation and intelligent workflows.
+
+</td>
+
+<td width="33%" valign="top">
+
+### HARDWARE × SOFTWARE
+
+Engineering beyond the browser.
+
+Firmware, connected devices and software working as one system.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
 
-**BERAT / SOFTWARE × AI × HARDWARE**
+### SOFTWARE × AI × HARDWARE
 
-<sub>Building systems from silicon to software.</sub>
+**Building systems from silicon to software.**
+
+<br>
+
+<sub>BERAT · ISTANBUL, TR</sub>
 
 </div>
