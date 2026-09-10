@@ -1,115 +1,110 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Berat — Software, AI and Embedded Systems" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://versell.ai"><b>Versell.ai</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Ber4tBey"><b>GitHub</b></a>
-</p>
+<a href="https://github.com/Ber4tBey">
+  <img src="https://github.com/Ber4tBey/Ber4tBey/blob/main/ber4tbey.gif" alt="Berat" width="100%" />
+</a>
 
-<br/>
+### SOFTWARE ENGINEER · AI · EMBEDDED SYSTEMS · FIRMWARE
 
-## 01 — Profile
+<sub>Building intelligent systems from silicon to software.</sub>
 
-I’m **Berat**, a product-focused software developer working across **AI, backend systems, embedded engineering and firmware**.
+</div>
 
-I like building the complete system — not just one layer of it. That means moving from product idea and architecture to cloud services, intelligent workflows, device communication and firmware when the product demands it.
+---
 
-```text
-PRODUCT  →  ARCHITECTURE  →  SOFTWARE  →  FIRMWARE  →  DEVICE
-```
+## 01 / PROFILE
 
-<br/>
+I'm **Berat**, a software developer building products across **software, artificial intelligence, embedded systems and hardware**.
 
-## 02 — Building now
+My work spans AI-powered platforms, backend infrastructure, automation, firmware and connected devices — with a focus on taking ideas from architecture to real products.
+
+`IDEA → ARCHITECTURE → PROTOTYPE → FIRMWARE → BACKEND → PRODUCT`
+
+---
+
+## 02 / CURRENTLY BUILDING
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Versell.ai
+### VERSELL
 
-**AI-powered customer communication platform.**
+**AI Customer Communication Platform**
 
-Building intelligent customer communication and automation systems designed to turn conversations into scalable product workflows.
+AI-powered customer communication and automation platform built around intelligent conversations, workflows and scalable product infrastructure.
 
-`AI` `SaaS` `Automation` `Backend`
+**FOCUS**  
+`AI` · `SaaS` · `Automation` · `Backend Systems`
 
-**ACTIVE DEVELOPMENT**
+**STATUS** `ACTIVE DEVELOPMENT`
 
-[versell.ai →](https://versell.ai)
+<a href="https://versell.ai">versell.ai →</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ANOS
 
-**Intelligent smart glasses.**
+**Intelligent Smart Glasses**
 
-A wearable computing project where software meets the physical world — spanning embedded systems, firmware, device communication and AI-powered experiences.
+A smart-glasses platform combining embedded hardware, firmware, connectivity, AI and application software into a connected wearable product.
 
-`Smart Glasses` `Firmware` `Embedded` `AI`
+**FOCUS**  
+`Embedded Systems` · `Firmware` · `Wearables` · `AI`
 
-**ACTIVE DEVELOPMENT**
+**STATUS** `ACTIVE DEVELOPMENT`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 03 — Engineering surface
+## 03 / ENGINEERING
 
-<p align="center">
-  <img src="./assets/architecture.svg" width="100%" alt="Engineering domains" />
-</p>
+```text
+SOFTWARE                    ARTIFICIAL INTELLIGENCE
+├─ Backend Architecture     ├─ LLM Applications
+├─ APIs & Services          ├─ AI Agents
+├─ Real-time Systems        ├─ Automation
+└─ Product Engineering      └─ AI Product Integration
 
-<br/>
+EMBEDDED                    INFRASTRUCTURE
+├─ Firmware                 ├─ Linux
+├─ Microcontrollers         ├─ Docker
+├─ Device Communication     ├─ PostgreSQL
+└─ Hardware / Software      └─ Redis
+```
 
-## 04 — Stack
+---
+
+## 04 / STACK
 
 <table>
-<tr>
-<td width="22%"><b>Software</b></td>
-<td>JavaScript · TypeScript · Python · Node.js · React · React Native</td>
-</tr>
-<tr>
-<td><b>Data</b></td>
-<td>PostgreSQL · Redis · MongoDB</td>
-</tr>
-<tr>
-<td><b>AI</b></td>
-<td>LLM Applications · Agents · AI Automation · Model APIs</td>
-</tr>
-<tr>
-<td><b>Embedded</b></td>
-<td>Firmware · Embedded Systems · Device Communication · Connected Hardware</td>
-</tr>
-<tr>
-<td><b>Infrastructure</b></td>
-<td>Docker · Linux · Git · Cloud Infrastructure · REST APIs · WebSockets</td>
-</tr>
+<tr><td><b>Languages</b></td><td>TypeScript · JavaScript · Python · C/C++ · SQL</td></tr>
+<tr><td><b>Software</b></td><td>Node.js · React · React Native · REST · WebSocket</td></tr>
+<tr><td><b>Data</b></td><td>PostgreSQL · Redis · MongoDB</td></tr>
+<tr><td><b>Embedded</b></td><td>Firmware · Microcontrollers · BLE · IoT · Device Communication</td></tr>
+<tr><td><b>AI</b></td><td>LLMs · Agents · AI Automation · Model APIs</td></tr>
+<tr><td><b>Infrastructure</b></td><td>Docker · Linux · Git · Cloud</td></tr>
 </table>
 
-<br/>
+---
 
-## 05 — GitHub signal
+## 05 / GITHUB
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ber4tBey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ber4tBey&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ber4tBey&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ber4tBey&layout=compact&hide_border=true&theme=transparent" />
+</div>
 
-<br/>
+---
 
-## 06 — Direction
+<div align="center">
 
-> **Building systems from silicon to software.**
->
-> AI products, cloud systems and connected devices — engineered as one product surface.
+**BERAT / SOFTWARE × AI × HARDWARE**
 
-<br/>
+<sub>Building systems from silicon to software.</sub>
 
-<p align="center">
-  <sub>BERAT / SOFTWARE × AI × EMBEDDED</sub>
-</p>
+</div>
