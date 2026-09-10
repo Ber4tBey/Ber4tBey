@@ -1,0 +1,22 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .mono{font-family:'Courier New',monospace}.sans{font-family:Inter,Arial,sans-serif}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}.dash{stroke-dasharray:8 12;animation:flow 7s linear infinite}
+  .node{animation:node 3s ease-in-out infinite}.node2{animation-delay:.7s}.node3{animation-delay:1.4s}
+  @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}} @keyframes flow{to{stroke-dashoffset:-120}}
+  @keyframes node{0%,100%{opacity:.45}50%{opacity:1}}
+  @media (prefers-color-scheme: light){.bg{fill:#F7F9FC}.primary{fill:#0A1020}.muted{fill:#566074}.line{stroke:#C9D2E3}.panel{fill:#EEF2F8;stroke:#D7DFEC}}
+  @media (prefers-color-scheme: dark){.bg{fill:#080B12}.primary{fill:#F4F7FB}.muted{fill:#8D98AA}.line{stroke:#263044}.panel{fill:#0E1420;stroke:#202A3B}}
+</style>
+<rect class="bg" width="1200" height="360" rx="24"/>
+<path class="line" opacity=".45" d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360"/>
+<rect class="panel" x="58" y="52" width="1084" height="256" rx="18"/>
+<circle cx="88" cy="82" r="5" fill="#4F8CFF" class="pulse"/><text x="104" y="87" class="mono muted" font-size="13" letter-spacing="2">ENGINEERING / PRODUCT</text>
+<text x="86" y="171" class="sans primary" font-size="70" font-weight="700" letter-spacing="-3">BERAT</text>
+<text x="89" y="211" class="mono muted" font-size="17" letter-spacing="3">SOFTWARE  /  AI  /  EMBEDDED SYSTEMS</text>
+<text x="89" y="265" class="sans muted" font-size="17">Building intelligent products across cloud, firmware and connected hardware.</text>
+<path class="line dash" d="M760 122H1080" stroke-width="2"/>
+<circle cx="784" cy="122" r="7" fill="#4F8CFF" class="node"/><circle cx="884" cy="122" r="7" fill="#4F8CFF" class="node node2"/><circle cx="984" cy="122" r="7" fill="#4F8CFF" class="node node3"/><circle cx="1080" cy="122" r="7" fill="#4F8CFF" class="node"/>
+<text x="760" y="158" class="mono muted" font-size="11">DEVICE</text><text x="856" y="158" class="mono muted" font-size="11">FIRMWARE</text><text x="967" y="158" class="mono muted" font-size="11">CLOUD</text><text x="1069" y="158" class="mono muted" font-size="11">AI</text>
+<rect x="760" y="205" width="320" height="58" rx="10" class="panel"/><text x="782" y="230" class="mono primary" font-size="12">STATUS</text><text x="782" y="250" class="mono muted" font-size="12">VERSELL.AI + ANOS / ACTIVE</text>
+</svg>
